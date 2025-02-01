@@ -1,1 +1,1 @@
-today is my first day in git 
+today is my second commit on git  
